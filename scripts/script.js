@@ -1,1 +1,1 @@
-var currentYear = new Date().getFullYear();
+currentYear = new Date().getFullYear();
